@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Project: My Dream Car</title>
+    <style>
+        body {
+            background-color: rgb(190, 222, 250);
+        }
+
+        #car-reason {
+            color: rgb(61, 112, 125);
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My Dream Car</h1>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/avatar-team.png"
+        width="500" length="400">
+    <p>In this article, we’ll explore why the <strong>Bugatti Chiron</strong> is my dream car.<br>Here are the top 10 reasons why I admire this incredible vehicle:</p>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png"
+        width="500" length="400">
+    <ul>
+        <li>Exceptional design and elegance</li>
+        <li>Unmatched speed and performance</li>
+        <li>Engineering masterpiece</li>
+        <li>Luxury interior and advanced technology</li>
+        <li>Exclusivity and rarity</li>
+        <li>Iconic brand heritage</li>
+        <li>State-of-the-art aerodynamics</li>
+        <li>Impressive comfort for a supercar</li>
+        <li>Perfect balance of power and beauty</li>
+        <li>It’s a symbol of success and passion</li>
+    </ul>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png"
+        width="500" length="400">
+    <h2>
+        The Ultimate Driving Experience
+    </h2>
+    <p id="car-reason">Driving the Bugatti Chiron is not just transportation—it’s an experience of art and engineering combined. From its luxurious seating to the roar of its quad-turbocharged engine, every moment in this car feels like a celebration of innovation and excellence.</p>
+</body>
+
+</html>
